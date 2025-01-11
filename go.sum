@@ -1,0 +1,10 @@
+github.com/1LCB/sal v0.0.0-20250111122722-4d3f1b3550bd h1:dWZypT3nNVvKJM6OHRgt1+ygLEk5h+G8P9ryZdeKpWc=
+github.com/1LCB/sal v0.0.0-20250111122722-4d3f1b3550bd/go.mod h1:vY/3+Z5i+PXPUiKvrIXNPt4itUoiwqgxAbrr3Y3JlYk=
+github.com/go-swagno/swagno v1.2.5 h1:Z07ITh04n5bMN/vhx4nMEIiu+opMgfbAdPFUI/ySw6k=
+github.com/go-swagno/swagno v1.2.5/go.mod h1:+w23j1OQfoA4Qg95Ekyosiam3T1agEEYOTsX22i2P1Q=
+github.com/go-swagno/swagno-files v0.1.3 h1:L8qWWbClOXXIBZiknHydygLU77bDawzUXCJg4evDfMA=
+github.com/go-swagno/swagno-files v0.1.3/go.mod h1:SY6IrcEspFFlVKxduEU1qnrZnu+E6HJKaWfsssvu8Ts=
+github.com/go-swagno/swagno-http v1.0.0 h1:rGukYOfEM/eUw1EQElNR0JSREgxx1SWKNKnnxsH3FDc=
+github.com/go-swagno/swagno-http v1.0.0/go.mod h1:G0f1/WiPbiJeMg/phngqMFzH2w4Y4bMQhD0BcBahlSo=
+golang.org/x/net v0.28.0 h1:a9JDOJc5GMUJ0+UDqmLT86WiEy7iWyIhz8gz8E4e5hE=
+golang.org/x/net v0.28.0/go.mod h1:yqtgsTWOOnlGLG9GFRrK3++bGOUEkNBoHZc8MEDWPNg=
